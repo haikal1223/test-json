@@ -16,32 +16,38 @@
       {
         "id":0,
         "label": "Diploma in Business Management + JC Digital Marketing",
-        "value": "/job-connector-digital-marketing"
+        "category": "Digital Marketing",
+        "pic": "admission1@purwadhika.com"
       },
       {
           "id":1,
           "label": "Diploma in Computing + JC Web Development",
-          "value": "/job-connector-web-mobile-development"
+          "category": "Web & Development",
+          "pic":"admission1@purwadhika.com"
       },
       {
           "id":2,
           "label": "Bachelor of Science in Creative Computing + JC Web Development",
-          "value": "/job-connector-web-mobile-development"
+          "category": "Web & Development",
+          "pic":"admission1@purwadhika.com"
       },
       {
           "id":3,
           "label": "Bachelor of Science in Computing + JC Web Development",
-          "value": "/job-connector-web-mobile-development"
+          "category": "Web & Development",
+          "pic":"admission1@purwadhika.com"
       },
       {
           "id":4,
           "label": "Bachelor of Arts in Business Enterprise & Innovation + JC Digital Marketing",
-          "value": "/job-connector-digital-marketing"
+          "category": "Digital Marketing",
+          "pic":"admission1@purwadhika.com"
       },
       {
           "id":5,
           "label":"Bachelor of Arts in International Business + JC Digital Marketing",
-          "value": "/job-connector-digital-marketing"
+          "category": "Digital Marketing",
+          "pic":"admission1@purwadhika.com"
       }
   ],
   "schedule": [
