@@ -1,0 +1,65 @@
+{
+  "method": [
+      {
+          "id":0,
+          "label": "Livestream",
+          "value": "Livestream"
+      },
+      {
+          "id": 1,
+          "label": "Video Learning",
+          "value": "Video Learning"
+      }
+
+  ],
+  "program": [
+      {
+        "id":0,
+        "label": "Diploma in Business Management + JC Digital Marketing",
+        "value": "/job-connector-digital-marketing"
+      },
+      {
+          "id":1,
+          "label": "Diploma in Computing + JC Web Development",
+          "value": "/job-connector-web-mobile-development"
+      },
+      {
+          "id":2,
+          "label": "Bachelor of Science in Creative Computing + JC Web Development",
+          "value": "/job-connector-web-mobile-development"
+      },
+      {
+          "id":3,
+          "label": "Bachelor of Science in Computing + JC Web Development",
+          "value": "/job-connector-web-mobile-development"
+      },
+      {
+          "id":4,
+          "label": "Bachelor of Arts in Business Enterprise & Innovation + JC Digital Marketing",
+          "value": "/job-connector-digital-marketing"
+      },
+      {
+          "id":5,
+          "label":"Bachelor of Arts in International Business + JC Digital Marketing",
+          "value": "/job-connector-digital-marketing"
+      }
+  ],
+  "schedule": [
+      {
+        "id": 0,
+        "label": "Fulltime Training",
+        "value": "Fulltime Training"
+      },
+      {
+        "id": 1,
+        "label": "After Hour Training",
+        "value": "After Hour Training"
+      },
+      {
+          "id": 2,
+          "label": "Video Learning",
+          "value": "Video Learning"
+      }
+  ]
+  
+}
